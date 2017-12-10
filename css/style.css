@@ -1,0 +1,58 @@
+.footer {
+  text-align: center;
+   color: rgb(0,0,0)!important;
+  border-top: 1px solid #000000;
+}
+.spacing {
+  margin: 15px;
+}
+.spacing2 {
+  margin: 10px;
+}
+.right {
+  float: right;
+}
+.left {
+  float: left;
+}
+.bottom {
+  margin-bottom: 10px;
+}
+.spacinggal {
+  margin: 2px;
+}
+.box {
+  width: 100%;
+}
+.imgspacing {
+  margin-bottom: 5px;
+}
+body {
+  background-image: url("../images/background/background.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-attachment: fixed;
+  color: black;
+}
+.container {
+  background-color: rgba(255,255,255,0.4);
+  padding-top: 10px;
+  border-top: 6px solid rgb(0,0,0);
+}
+}
+a {
+  color: rgb(255,255,255)!important;
+}
+.btn-success {
+ background-color: #6C776C;
+ border-color: #636F63;
+}
+.nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus {
+  background-color: rgb(0,0,0)!important;
+}
+.header {
+  border-bottom: 1px solid #000000;
+}
+.btn-success:hover,.btn-success:focus,.btn-success.focus,.btn-success:active,.btn-success.active,.open>.dropdown-toggle.btn-success{
+  color:#fff;background-color:#4B524B;border-color:#4B524B;
+}
